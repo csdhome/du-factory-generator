@@ -68,7 +68,7 @@ export function App() {
                     <a href="https://github.com/csdhome/du-factory-generator/issues">
                         issue on Github
                     </a>
-                    , or <a href="https://discord.gg/EmMxrG4vxs">join our Discord server</a>.
+                    , or <a href="http://discord.consortiumgaming.net">join our Discord server</a>.
                     <Divider orientation="left">Instructions</Divider>
                     <ul>
                         <li>Set or update talents as necessary.</li>

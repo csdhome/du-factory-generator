@@ -1381,7 +1381,7 @@
         "type": "Pure",
         "volume": 1,
         "outputQuantity": 45,
-        "time": 3125,
+        "time": 720,
         "byproducts": {
             "Pure Sulfur": 15
         },
@@ -1397,7 +1397,7 @@
         "type": "Pure",
         "volume": 1,
         "outputQuantity": 45,
-        "time": 3125,
+        "time": 720,
         "byproducts": {
             "Pure Sodium": 7.5,
             "Pure Aluminium": 7.5
@@ -1414,7 +1414,7 @@
         "type": "Pure",
         "volume": 1,
         "outputQuantity": 45,
-        "time": 3125,
+        "time": 720,
         "byproducts": {},
         "industry": "Refiner M",
         "input": {
@@ -1428,7 +1428,7 @@
         "type": "Pure",
         "volume": 1,
         "outputQuantity": 45,
-        "time": 3125,
+        "time": 720,
         "byproducts": {
             "Pure Oxygen": 7.5,
             "Pure Hydrogen": 7.5
@@ -1445,7 +1445,7 @@
         "type": "Pure",
         "volume": 1,
         "outputQuantity": 45,
-        "time": 15600,
+        "time": 960,
         "byproducts": {
             "Pure Calcium": 5,
             "Pure Silicon": 5,
@@ -1463,7 +1463,7 @@
         "type": "Pure",
         "volume": 1,
         "outputQuantity": 45,
-        "time": 15600,
+        "time": 960,
         "byproducts": {
             "Pure Iron": 5,
             "Pure Manganese": 5,
@@ -1481,7 +1481,7 @@
         "type": "Pure",
         "volume": 1,
         "outputQuantity": 45,
-        "time": 15600,
+        "time": 960,
         "byproducts": {
             "Pure Iron": 7.5,
             "Pure Oxygen": 7.5
@@ -1498,7 +1498,7 @@
         "type": "Pure",
         "volume": 1,
         "outputQuantity": 45,
-        "time": 15600,
+        "time": 960,
         "byproducts": {
             "Pure Oxygen": 15
         },

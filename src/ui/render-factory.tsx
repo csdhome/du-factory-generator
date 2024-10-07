@@ -91,10 +91,10 @@ export const CONTAINERLABELS: { [key: string]: string } = {
 }
 
 // The size (in pixels) of a node item in the visualization
-export const SIZE = 60
+export const SIZE = 120
 
 // The size (in pt) of the font
-export const FONTSIZE = 10
+export const FONTSIZE = 12
 
 // Spacing between link lines
 export const LINKSPACING = 1.1 * FONTSIZE
