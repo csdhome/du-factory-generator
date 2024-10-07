@@ -65,7 +65,7 @@ export function App() {
                     intermediate industries. Therefore, this is a factory plan that will maximize
                     production efficiency even after production interruptions. If you encouter any
                     problems or would like to request new features, please submit an{" "}
-                    <a href="https://github.com/thearchitectio/du-factory-generator/issues">
+                    <a href="https://github.com/csdhome/du-factory-generator/issues">
                         issue on Github
                     </a>
                     , or <a href="https://discord.gg/EmMxrG4vxs">join our Discord server</a>.

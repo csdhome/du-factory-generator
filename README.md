@@ -1,6 +1,6 @@
 # Dual Universe Factory Generator
 
-Use the application here: https://thearchitectio.github.io/du-factory-generator/
+Use the application here: https://csdhome.github.io/du-factory-generator/
 
 This is an application for generating a factory plan for [Dual
 Universe](https://www.dualuniverse.game/). Given a set of items, the
@@ -46,7 +46,7 @@ Navigate your browser to http://localhost:8080/
 ## Bugs & Feature Requests
 
 Please submit an
-[issue](https://github.com/TheArchitectIO/du-factory-generator/issues) to
+[issue](https://github.com/csdhome/du-factory-generator/issues) to
 report bugs or request new features.
 
 ## Contributing

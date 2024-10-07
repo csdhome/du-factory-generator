@@ -31,7 +31,7 @@ export function Info({ setAppState }: InfoProps) {
             Therefore, this is a factory plan that will maximize production efficiency even after
             production interruptions. If you encouter any problems or would like to request new
             features, please submit an{" "}
-            <a href="https://github.com/TheArchitectIO/du-factory-generator/issues">issue on Github</a>.
+            <a href="https://github.com/csdhome/du-factory-generator/issues">issue on Github</a>.
             <h2>Instructions: Starting a new factory</h2>
             <ul>
                 <li>
@@ -77,7 +77,7 @@ export function Info({ setAppState }: InfoProps) {
                 <br />
                 Container L, 2, 10
             </pre>
-            <a href="https://raw.githubusercontent.com/TheArchitectIO/du-factory-generator/master/item_list.csv">
+            <a href="https://raw.githubusercontent.com/csdhome/du-factory-generator/master/item_list.csv">
                 Here is a link
             </a>
             &nbsp;to a blank CSV file with all available item names.
